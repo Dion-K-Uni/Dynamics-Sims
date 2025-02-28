@@ -1,7 +1,7 @@
 import numpy as np
 
 #define all functons to take in vectors for positions
-
+#for the distance, components of vectors found by .x, .y, .z, depends how you implement it needs to change
 def ProcCalc(A):
     """Function to find U and V"""
 
